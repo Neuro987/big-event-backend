@@ -160,7 +160,3 @@ tencent.cos:
   region: your_region
 ```
 
-
-## 📄 License
-
-This project is licensed under the MIT License.
